@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 90">
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3569A8"/>
+      <stop offset="100%" stop-color="#14233B"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M12 76 L48 10 L84 76 H64 L48 46 L32 76 Z" fill="url(#blue)"/>
+  <path d="M52 59 L91 10 H116 L80 59 Z" fill="#3569A8"/>
+  <path d="M91 10 H155 L143 28 H104 Z" fill="#3569A8"/>
+  <path d="M102 37 H137 L126 53 H91 Z" fill="#14233B"/>
+
+  <path d="M172 13 V77" stroke="#AAB8C9" stroke-width="2"/>
+
+  <text x="192" y="43" font-size="25"
+        font-family="Arial" font-weight="700"
+        fill="#14233B">ALFA</text>
+
+  <text x="193" y="63" font-size="11"
+        font-family="Arial" letter-spacing="3"
+        fill="#3569A8">PORTFOLIO</text>
+</svg>
